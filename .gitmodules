@@ -1,0 +1,3 @@
+[submodule "libraryTraining"]
+	path = libraryTraining
+	url = https://github.com/AhmedOsam/libraryTraining.git
